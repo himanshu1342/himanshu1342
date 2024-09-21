@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Himanshu (@himanshu1342)
-- 👀 I’m interested in cloud computing, Modern technology, Videography, Graphic designing, UI/UX designing, community management etc.
+- 👀 I’m interested in cloud computing, Modern technology, Machine learning, Videography, Graphic designing, UI/UX designing, community management etc.
 - 🌱 I’m currently Pursuing B.tech In Computer Science.
 - 📢 Google Arcade Faclitator 2024 and GDSC MGMU Cloud expert tenure 2023-24.
 - 📫 How to reach me Linkedin(Himanshu Chaudhari), instagram (himanshu_1342).
-- 😄 Pronouns: Camera_sauce.
 
 <!---
 himanshu1342/himanshu1342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
